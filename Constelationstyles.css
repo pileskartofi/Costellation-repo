@@ -1,3 +1,7 @@
+#wrapper{
+	margin: 10% 10%;
+}
+
 h1{
 	font-size: 72px;
 	letter-spacing: 22px;
@@ -16,4 +20,13 @@ h2{
 	font-family: "Georgia";
 	font-style: italic;;
 	text-align: center;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
 }

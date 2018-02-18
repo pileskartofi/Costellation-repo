@@ -1,0 +1,19 @@
+h1{
+	font-size: 72px;
+	letter-spacing: 22px;
+	line-height: 30px;
+	color: rgb(28,28,28);
+	font-family: "Proxima Nova";
+	font-weight: bold;
+	text-align: center;
+
+}
+
+h2{
+	font-size: 28px;
+	line-height: 60px;
+	color: rgb(143,143,143);
+	font-family: "Georgia";
+	font-style: italic;;
+	text-align: center;
+}
